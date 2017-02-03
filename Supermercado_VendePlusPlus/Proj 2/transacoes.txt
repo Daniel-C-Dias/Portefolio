@@ -1,0 +1,56 @@
+: Ficheiro de transações
+
+: A LINHA ABAIXO NÃO DEVE SER ALTERADA OU APAGADA
+. t
+
+: Linhas de comentários são indicadas por um ":" no início da linha
+: Linhas de controlo são indicadas por um "." no início da linha
+
+: Todas as linhas de comentários e de controlo acima da linha # serão preservadas pelo programa
+: Todas as linhas de comentários e de controlo abaixo da linha # serão APAGADAS pelo programa
+
+: Exemplo de uma linha de informação: 1 ; 01/01/2016 ; pão, água
+
+: AS LINHAS ABAIXO NÃO DEVEM SER ALTERADAS OU APAGADAS
+# 41
+16 ; 06/02/2001 ; alhos, carne, pipocas, tomate
+27 ; 13/04/2004 ; batatas fritas, peixe, champô, pipocas
+17 ; 23/05/2004 ; açúcar, alface, tomate
+37 ; 01/10/2004 ; bolachas, pão, água
+40 ; 14/06/2007 ; leite, cereais, cerveja, maça, massa
+16 ; 11/01/2008 ; pão, água, açúcar
+39 ; 29/01/2008 ; massa, alhos, jogos, tomate, carne
+22 ; 24/12/2008 ; vinho branco, peixe, pão
+40 ; 30/07/2009 ; água, açúcar, pão, jogos
+28 ; 08/01/2011 ; uvas, vinho branco, vinho tinto
+18 ; 01/05/2011 ; laranja, banana, maça
+25 ; 11/11/2011 ; bolachas, pêra, kiwi
+2 ; 15/01/2014 ; peixe, carne
+10 ; 01/06/2014 ; coca cola
+29 ; 04/08/2014 ; couve, alface, tomate
+1 ; 01/01/2016 ; pão, maça, açúcar
+14 ; 01/01/2016 ; carne, batatas fritas
+17 ; 01/01/2016 ; alhos, carne, banana, laranja
+12 ; 01/01/2016 ; pão, água, coca cola, leite, batata
+24 ; 01/01/2016 ; pão, água, leite
+19 ; 01/01/2016 ; pão, água, massa, alhos, carne
+28 ; 01/01/2016 ; cerveka, champô, bolachas
+2 ; 02/01/2016 ; pão, água, açúcar, massa, cerveja
+3 ; 03/01/2016 ; pão, detergente, açúcar, massa, alhos
+4 ; 04/01/2016 ; pão, água, açúcar, leite
+5 ; 05/01/2016 ; pão, água, couve
+19 ; 05/01/2016 ; peixe, água, champô
+6 ; 06/01/2016 ; pêra, água, açúcar
+39 ; 07/01/2016 ; pão, jogos, açúcar
+8 ; 08/01/2016 ; uvas, água, açúcar
+9 ; 09/01/2016 ; pão, água, açúcar, leite
+19 ; 16/01/2016 ; cereais, bolachas, fraldas
+35 ; 18/01/2016 ; jogos, detergente, alface, tomate
+19 ; 31/01/2016 ; vinho branco, vinho tinto
+41 ; 16/04/2016 ; peixe, iogurte, leite, jogos, vinho branco
+34 ; 25/04/2016 ; laranja, leite, kiwi
+31 ; 01/07/2016 ; uvas, vinho branco, coca cola
+5 ; 31/08/2016 ; cereais, bolachas
+16 ; 26/10/2016 ; alhos, kiwi, fraldas
+25 ; 01/11/2016 ; pipocas, alface, tomate, água
+12 ; 17/11/2016 ; água, sumo de laranja, leite, kiwi, jogos

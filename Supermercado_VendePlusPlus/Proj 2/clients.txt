@@ -1,0 +1,29 @@
+: Ficheiro de clientes
+
+: A LINHA ABAIXO NÃO DEVE SER ALTERADA OU APAGADA
+. c
+
+: Linhas de comentários são indicadas por um ":" no início da linha
+: Linhas de controlo são indicadas por um "." no início da linha
+
+: Todas as linhas de comentários e de controlo acima da linha # serão preservadas pelo programa
+: Todas as linhas de comentários e de controlo abaixo da linha # serão APAGADAS pelo programa
+
+: Exemplo de uma linha de informação: 1 ; Daniel Dias ; 01/01/2016 ; 4.99
+
+: AS LINHAS ABAIXO NÃO DEVEM SER ALTERADAS OU APAGADAS
+# 14
+11 ; Ana Monteiro ; 01/01/2016 ; 2.97
+5 ; Bruno Pacheco ; 01/01/2016 ; 2.97
+15 ; Catarina Andrade ; 01/01/2016 ; 7.92
+10 ; Daniela Castro ; 01/01/2016 ; 2.97
+6 ; Eduardo Pereira ; 01/01/2016 ; 1.98
+9 ; Francisca Coutinho ; 01/01/2016 ; 1.98
+3 ; Gonçalo Melo ; 01/01/2016 ; 2.97
+2 ; José Almeida ; 01/01/2016 ; 2.97
+12 ; João Bastos ; 01/01/2016 ; 3.96
+7 ; Maria Santiago ; 01/01/2016 ; 1.98
+4 ; Nuno Nogueira ; 01/01/2016 ; 1.98
+8 ; Rita Correia ; 01/01/2016 ; 2.97
+1 ; Serafim Azevedo ; 01/01/2016 ; 2.97
+14 ; Vítor Araújo ; 01/01/2016 ; 3.96

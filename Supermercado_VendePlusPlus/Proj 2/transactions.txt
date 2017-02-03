@@ -1,0 +1,37 @@
+: Ficheiro de transações
+
+: A LINHA ABAIXO NÃO DEVE SER ALTERADA OU APAGADA
+. t
+
+: Linhas de comentários são indicadas por um ":" no início da linha
+: Linhas de controlo são indicadas por um "." no início da linha
+
+: Todas as linhas de comentários e de controlo acima da linha # serão preservadas pelo programa
+: Todas as linhas de comentários e de controlo abaixo da linha # serão APAGADAS pelo programa
+
+: Exemplo de uma linha de informação: 1 ; 01/01/2016 ; pão, água
+
+: AS LINHAS ABAIXO NÃO DEVEM SER ALTERADAS OU APAGADAS
+# 22
+1 ; 01/01/2016 ; pão, água, manteiga
+11 ; 01/01/2016 ; pão, água, cereais
+2 ; 02/01/2016 ; pão, água, açúcar
+12 ; 02/01/2016 ; pão, água, cereais
+3 ; 03/04/2016 ; pão, água, açúcar
+13 ; 03/04/2016 ; pão, cereais
+4 ; 04/04/2016 ; pão, água
+14 ; 04/04/2016 ; pão, água, cereais, açúcar
+15 ; 25/05/2016 ; água, cereais, manteiga
+21 ; 25/05/2016 ; água, cereais
+5 ; 05/07/2016 ; pão, água, cereais
+15 ; 05/07/2016 ; pão, água, cereais, açúcar, manteiga
+6 ; 06/07/2016 ; pão, água
+16 ; 06/07/2016 ; pão, água, açúcar
+7 ; 07/10/2016 ; pão, água
+17 ; 07/10/2016 ; pão, manteiga
+8 ; 08/10/2016 ; pão, água, manteiga
+18 ; 08/10/2016 ; pão, água, manteiga
+9 ; 09/01/2017 ; pão, água
+19 ; 09/01/2017 ; pão, água, manteiga
+10 ; 10/01/2017 ; pão, água, açúcar
+20 ; 10/01/2017 ; pão, água, manteiga

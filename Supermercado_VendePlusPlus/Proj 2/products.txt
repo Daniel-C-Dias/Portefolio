@@ -1,0 +1,20 @@
+: Ficheiro de produtos
+
+: A LINHA ABAIXO NÃO DEVE SER ALTERADA OU APAGADA
+. p
+
+: Linhas de comentários são indicadas por um ":" no início da linha
+: Linhas de controlo são indicadas por um "." no início da linha
+
+: Todas as linhas de comentários e de controlo acima da linha # serão preservadas pelo programa
+: Todas as linhas de comentários e de controlo abaixo da linha # serão APAGADAS pelo programa
+
+: Exemplo de uma linha de informação: pão ; 0.99
+
+: AS LINHAS ABAIXO NÃO DEVEM SER ALTERADAS OU APAGADAS
+# 5
+pão ; 0.99
+água ; 0.99
+cereais ; 0.99
+açúcar ; 0.99
+manteiga ; 0.99

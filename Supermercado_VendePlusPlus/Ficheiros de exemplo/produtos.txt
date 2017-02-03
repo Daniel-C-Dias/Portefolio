@@ -1,0 +1,49 @@
+: Ficheiro de produtos
+
+: A LINHA ABAIXO NÃO DEVE SER ALTERADA OU APAGADA
+. p
+
+: Linhas de comentários são indicadas por um ":" no início da linha
+: Linhas de controlo são indicadas por um "." no início da linha
+
+: Todas as linhas de comentários e de controlo acima da linha # serão preservadas pelo programa
+: Todas as linhas de comentários e de controlo abaixo da linha # serão APAGADAS pelo programa
+
+: Exemplo de uma linha de informação: pão ; 0.99
+
+: AS LINHAS ABAIXO NÃO DEVEM SER ALTERADAS OU APAGADAS
+34
+champô ; 4.89
+laranja ; 1.50
+banana ; 1.20
+peixe ; 5.60
+batatas fritas ; 0.40
+carne ; 2.50
+iogurte ; 3.00
+maça ; 0.70
+cerveja ; 0.87
+pipocas ; 0.43
+sumo de laranja ; 1.00
+fraldas ; 3.99
+pão ; 0.99
+cereais ; 2.79
+bolachas ; 0.95
+pêra ; 0.52
+uvas ; 0.85
+kiwi ; 5.99
+leite ; 1.99
+vinho branco ; 6.99
+vinho tinto ; 3.99
+coca cola ; 0.99
+massa ; 0.59
+alhos ; 0.99
+batata ; 0.74
+couve ; 5.99
+alface ; 0.98
+tomate ; 0.95
+detergente ; 9.99
+jogos ; 10.99
+água ; 1.00
+açúcar ; 3.62
+giz ; 1.00
+meias ; 0.45
