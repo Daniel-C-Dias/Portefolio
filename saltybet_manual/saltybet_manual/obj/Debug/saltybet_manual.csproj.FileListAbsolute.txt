@@ -1,0 +1,10 @@
+C:\SaltyBet_Manual\saltybet_manual\saltybet_manual\bin\Debug\saltybet_manual.exe.config
+C:\SaltyBet_Manual\saltybet_manual\saltybet_manual\obj\Debug\saltybet_manual.csprojResolveAssemblyReference.cache
+C:\SaltyBet_Manual\saltybet_manual\saltybet_manual\obj\Debug\saltybet_manual.betmanager.resources
+C:\SaltyBet_Manual\saltybet_manual\saltybet_manual\obj\Debug\saltybet_manual.Properties.Resources.resources
+C:\SaltyBet_Manual\saltybet_manual\saltybet_manual\obj\Debug\saltybet_manual.csproj.GenerateResource.Cache
+C:\SaltyBet_Manual\saltybet_manual\saltybet_manual\bin\Debug\saltybet_manual.exe
+C:\SaltyBet_Manual\saltybet_manual\saltybet_manual\bin\Debug\saltybet_manual.pdb
+C:\SaltyBet_Manual\saltybet_manual\saltybet_manual\obj\Debug\saltybet_manual.exe
+C:\SaltyBet_Manual\saltybet_manual\saltybet_manual\obj\Debug\saltybet_manual.pdb
+C:\SaltyBet_Manual\saltybet_manual\saltybet_manual\obj\Debug\saltybet_manual.main_menu.resources

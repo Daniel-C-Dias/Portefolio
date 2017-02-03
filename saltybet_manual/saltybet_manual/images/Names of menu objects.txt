@@ -1,0 +1,103 @@
+Salty Bet Manual - label names
+
+***Main Menu Screen***
+
+-> "Welcome to SaltyBet - Manual Bet Manager!" = menu1_title1;
+-> "Please Select the Number of Player(1 to 4):" = menu1_title2;
+-> "Player Bet Pool:" = menu1_title3;
+-> "$" = cifrao;
+
+-> "Number of players Textbox" = nr_players_tb;
+-> "Player Pool Textbox" = player_pool_tb;
+
+-> "Enter Button" = enterbt;
+
+->"Image" = pictureBox1;
+
+
+***Player Names Select Screen***
+
+ -> "Please Insert The Player(s) Name:" = menu2_title;
+ 
+ -> "Player 1:" = menu2_label1;
+ -> "Player 2:" = menu2_label2;
+ -> "Player 3:" = menu2_label3;
+ -> "Player 4:" = menu2_label4;
+ 
+ -> "Player 1 textbox" = menu2_textBox1;
+ -> "Player 2 textbox" = menu2_textBox2;
+ -> "Player 3 textbox" = menu2_textBox3;
+ -> "Player 4 textbox" = menu2_textBox4;
+ 
+ -> "Image" = pictureBox2;
+ 
+ -> "Back Button" = menu2_backbt;
+ -> "Ok Button" = menu2_okbt;
+ 
+
+
+***Bet Manager Screen***
+
+
+->"Player 1:" player1lb;
+->"Player 2:" player2lb;
+->"Player 3:" player3lb;
+->"Player 4:" player4lb;
+
+->"Player 1 Pool:" = player1poollb;
+->"Player 2 Pool:" = player2poollb;
+->"Player 3 Pool:" = player3poollb;
+->"Player 4 Pool:" = player4poollb;
+
+->"Player 1 Pool TextBox" = player1pooltb;
+->"Player 2 Pool TextBox" = player2pooltb;
+->"Player 3 Pool TextBox" = player3pooltb;
+->"Player 4 Pool TextBox" = player4pooltb;
+
+->"Player 1 Bet:" = player1betlb;
+->"Player 2 Bet:" = player2betlb;
+->"Player 3 Bet:" = player3betlb;
+->"Player 4 Bet:" = player4betlb;
+
+->"Player 1 Bet TextBox"= player1bettb; 
+->"Player 2 Bet TextBox"= player2bettb; 
+->"Player 3 Bet TextBox"= player3bettb; 
+->"Player 4 Bet TextBox"= player4bettb; 
+
+->"Player 1 Red bet label" = player1redlb;
+->"Player 2 Red bet label" = player2redlb;
+->"Player 3 Red bet label" = player3redlb;
+->"Player 4 Red bet label" = player4redlb;
+
+->"Player 1 Red bet checkbox" = player1redcb;
+->"Player 2 Red bet checkbox" = player2redcb;
+->"Player 3 Red bet checkbox" = player3redcb;
+->"Player 4 Red bet checkbox" = player4redcb;
+
+->"Player 1 Blue bet label" = player1bluelb;
+->"Player 2 Blue bet label" = player2bluelb;
+->"Player 3 Blue bet label" = player3bluelb;
+->"Player 4 Blue bet label" = player4bluelb;
+
+->"Player 1 Blue bet checkbox" = player1bluecb;
+->"Player 2 Blue bet checkbox" = player2bluecb;
+->"Player 3 Blue bet checkbox" = player3bluecb;
+->"Player 4 Blue bet checkbox" = player4bluecb;
+
+->"Select Winner:" = menu3_titlelb;
+->"Image" = pictureBox3;
+
+->"Make Bet Button" = make_bet_bt;
+->"End Session Button" = end_session_bt;
+->"Red Charecter Button" = red_win_bt;
+->"Blue Charecter Button" = blue_win_bt;
+
+
+
+
+
+
+
+
+
+
